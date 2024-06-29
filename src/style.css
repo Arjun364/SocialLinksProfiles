@@ -91,3 +91,27 @@ body{
     color: var(--secondary-color);
 
 }
+
+/* mobile-view */
+
+@media only screen and (max-width:469px){
+    .container{
+        width: 20rem;
+        height: 32rem;
+    }
+
+    .container h1{
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .container p{
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .container .item{
+        width: 15rem;
+        height: 2.5rem;
+    }
+}
