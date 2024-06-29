@@ -38,7 +38,7 @@ body{
     height: 6rem;
     background-color: var(--Primary-color);
     border-radius: 50%;
-    background: url('assets/me.png');
+    background: url('../assets/me.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
